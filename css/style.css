@@ -1,0 +1,27 @@
+
+#demo{
+    width: 70%;
+    margin: auto;
+}
+.heading{
+    font-size: 70px;
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: bold;
+}
+
+button{
+    background-color: blue;
+    width: 220px;
+    height: 70px;
+    color: white;
+    font-size: 15px;
+}
+button.btn{
+    color: white;
+    font-size: 15px;
+}
+
+
+button:hover{
+    background-color: green;
+}
